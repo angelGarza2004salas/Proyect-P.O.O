@@ -1,0 +1,20 @@
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\bin\Debug\net6.0-windows\Proyecto de P.O.O.exe
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\bin\Debug\net6.0-windows\Proyecto de P.O.O.deps.json
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\bin\Debug\net6.0-windows\Proyecto de P.O.O.runtimeconfig.json
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\bin\Debug\net6.0-windows\Proyecto de P.O.O.dll
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\bin\Debug\net6.0-windows\Proyecto de P.O.O.pdb
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.csproj.AssemblyReference.cache
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto_de_P.O.O.Properties.Resources.resources
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.csproj.GenerateResource.cache
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.AssemblyInfoInputs.cache
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.AssemblyInfo.cs
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.csproj.CoreCompileInputs.cache
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.dll
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\refint\Proyecto de P.O.O.dll
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.pdb
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto de P.O.O.genruntimeconfig.cache
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\ref\Proyecto de P.O.O.dll
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto_de_P.O.O.Create_Account.resources
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto_de_P.O.O.FrmLog_in.resources
+C:\Users\Angel - Gera\source\repos\Proyecto de P.O.O\Proyecto de P.O.O\obj\Debug\net6.0-windows\Proyecto_de_P.O.O.FrmStudent_Registration.resources

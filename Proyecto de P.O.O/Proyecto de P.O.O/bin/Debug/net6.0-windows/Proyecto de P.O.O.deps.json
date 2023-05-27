@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proyecto de P.O.O/1.0.0": {
+        "runtime": {
+          "Proyecto de P.O.O.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto de P.O.O/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
